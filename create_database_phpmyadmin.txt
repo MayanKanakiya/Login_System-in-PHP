@@ -1,0 +1,10 @@
+DATA BASE NAME SET IN : user01
+TABLE NAME SET IN : login
+TABLE ROW SET :
+         1.srno in auto increamate
+         2.uname varchar 20
+         3.pwd varchar 255 [password_hashing]
+         4.time timestamp [default timestamp]...
+
+Create a login system...
+Happy Codeing...
